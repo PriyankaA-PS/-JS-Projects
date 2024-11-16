@@ -17,6 +17,19 @@ console.log(numbers);
 // Usage: when u need to store the result
 // original array unchanged
 
+// Syntax
+//let newArr = oldArr.map((val, index, arr) => {
+  // return element to new Array
+// });
+
+
+// newArr — the new array that is returned
+// oldArr — the array to run the map function on
+// val — the current value being processed, required
+// index — the current index of the value being processed
+// arr — the original array
+
+
 var squared = numbers.map( num => num ** 2);
 console.log(squared);
 // output : [1, 4, 9, 16]
