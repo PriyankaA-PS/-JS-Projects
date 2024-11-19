@@ -7,6 +7,8 @@ let number = [1, 2, 3, 4, 5]
 let evenNumbers = numbers.filter((item)=> (item % 2 === 0));
 console.log(evenNumbers);
 
+// output : [2, 4]
+
 // Problem 2:- Filter objects with tags javascript
 
 var persons = [

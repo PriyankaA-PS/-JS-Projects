@@ -22,7 +22,7 @@ console.log(productId);
 
 /* Problem-2
 
-The map() mehod's syntax is as below
+The map() method's syntax is as below
 
 let newArr = oldArr.map((val, index, arr) => {
   // return element to new Array
