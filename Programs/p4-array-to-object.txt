@@ -1,0 +1,10 @@
+1. Spread Operator
+-- use its ... into {} which spreads its message by giving default key values
+
+2. Reduce method of array
+-- for me its look like Array Function assign with variable 
+-- (acc, currentValue, index)
+-- -- acc - {}/ object
+-- -- currentValue is the Values ('Hello')
+-- -- index is currentValue indexed [0,1,2]
+** acc[index] acts as key only in Javascript
